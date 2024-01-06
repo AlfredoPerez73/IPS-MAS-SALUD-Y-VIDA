@@ -1,0 +1,33 @@
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\bin\Debug\Logica.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\bin\Debug\Logica.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\bin\Debug\Datos.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\bin\Debug\Entidad.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\bin\Debug\Datos.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\bin\Debug\Entidad.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\obj\Debug\Logica.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Logica\obj\Debug\Logica.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\bin\Debug\Logica.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\bin\Debug\Logica.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\bin\Debug\Datos.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\bin\Debug\Entidad.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\bin\Debug\Datos.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\bin\Debug\Entidad.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\obj\Debug\Logica.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Logica\obj\Debug\Logica.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\bin\Debug\Logica.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\bin\Debug\Logica.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\bin\Debug\Datos.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\bin\Debug\Entidad.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\bin\Debug\Datos.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\bin\Debug\Entidad.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\obj\Debug\Logica.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Logica\obj\Debug\Logica.pdb

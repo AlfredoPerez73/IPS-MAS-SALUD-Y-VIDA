@@ -1,0 +1,27 @@
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\bin\Debug\Datos.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\bin\Debug\Datos.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\bin\Debug\Entidad.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\bin\Debug\Entidad.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\obj\Debug\Datos.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Datos\obj\Debug\Datos.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\bin\Debug\Datos.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\bin\Debug\Datos.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\bin\Debug\Entidad.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\bin\Debug\Entidad.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\obj\Debug\Datos.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Datos\obj\Debug\Datos.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\bin\Debug\Datos.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\bin\Debug\Datos.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\bin\Debug\Entidad.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\bin\Debug\Entidad.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\obj\Debug\Datos.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Datos\obj\Debug\Datos.pdb

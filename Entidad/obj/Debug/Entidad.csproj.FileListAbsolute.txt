@@ -1,0 +1,18 @@
+C:\Users\javie\Downloads\LiquidacionRepository\Entidad\bin\Debug\Entidad.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Entidad\bin\Debug\Entidad.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\javie\Downloads\LiquidacionRepository\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\LiquidacionRepository\Entidad\obj\Debug\Entidad.dll
+C:\Users\javie\Downloads\LiquidacionRepository\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Entidad\bin\Debug\Entidad.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Entidad\obj\Debug\Entidad.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Entidad\bin\Debug\Entidad.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Entidad\obj\Debug\Entidad.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\Entidad\obj\Debug\Entidad.pdb

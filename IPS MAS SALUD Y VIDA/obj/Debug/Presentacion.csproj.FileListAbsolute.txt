@@ -1,0 +1,42 @@
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.exe.config
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.exe
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Entidad.dll
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Logica.dll
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Datos.dll
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Entidad.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Logica.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Datos.pdb
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\IPS MAS SALUD Y VIDA.exe
+C:\Users\javie\Downloads\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\IPS MAS SALUD Y VIDA.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.exe.config
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.exe
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Entidad.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Logica.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Datos.dll
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Entidad.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Logica.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\bin\Debug\Datos.pdb
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\IPS MAS SALUD Y VIDA.exe
+C:\Users\Alfredo\Source\Repos\LiquidacionRepository\IPS MAS SALUD Y VIDA\obj\Debug\IPS MAS SALUD Y VIDA.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.exe.config
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.exe
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\IPS MAS SALUD Y VIDA.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\Entidad.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\Logica.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\Datos.dll
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\Entidad.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\Logica.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\bin\Debug\Datos.pdb
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\obj\Debug\IPS MAS SALUD Y VIDA.exe
+C:\Users\Angie Zarate\Downloads\LiquidacionRepository-main\IPS MAS SALUD Y VIDA\obj\Debug\IPS MAS SALUD Y VIDA.pdb
